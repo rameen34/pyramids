@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8dc;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+
+h1 {
+    color: #8B4513; 
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+
+h2 {
+    color: #5C4033; 
+    font-style: italic;
+    margin: 15px auto;
+    width: 80%;
+    text-align: justify;
+}
+
+
+mark {
+    background-color: #FFD700; 
+    text-decoration: underline;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+
+img {
+    max-width: 80%;
+    height: auto;
+    margin: 20px 0;
+    border: 2px solid #d2b48c;
+    border-radius: 8px;
+}
+
+
+p {
+    width: 85%;
+    margin: 10px auto;
+    text-align: justify;
+}
