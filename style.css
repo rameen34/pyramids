@@ -9,22 +9,16 @@ body {
     line-height: 1.6;
 }
 
-
 h1 {
     color: #FFD700;
     text-transform: uppercase;
     margin-bottom: 20px;
 }
 
-
 h2 {
     color: #FFA07A; 
     font-style: italic;
-    margin: 15px auto;
-    width: 80%;
-    text-align: justify;
 }
-
 
 mark {
     background-color: #FF4500; 
@@ -34,19 +28,11 @@ mark {
     color: #fff;
 }
 
-
 img {
     max-width: 95%; 
     height: auto;
-    margin: 20px 0;
+    margin: 20px 0; 
     border: 2px solid #fff; 
     border-radius: 8px;
     box-shadow: 0 0 10px #fff; 
-}
-
-
-p {
-    width: 85%;
-    margin: 10px auto;
-    text-align: justify;
 }
